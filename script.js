@@ -41,3 +41,4 @@ document.getElementById('facilitator').addEventListener('click', (event) => {
 
 });
 getNumberOrString(document.getElementById('text').value);
+
